@@ -37,7 +37,9 @@ section {
 h1, h2 {
     color: #8B0000; /* Rojo oscuro */
 }
-
+h3{
+    color: #99806e;
+}
 ul {
     list-style-type: none;
     padding: 0;
